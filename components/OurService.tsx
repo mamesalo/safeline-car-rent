@@ -22,19 +22,19 @@ const OurService = () => {
         </p>
         <div className="flex gap-8">
           <div className="text-center">
-            <div className="text-red-600 text-4xl font-bold">49+</div>
+            <div className="text-primary-blue text-4xl font-bold">49+</div>
             <p className="text-gray-600">Car Types</p>
           </div>
           <div className="text-center">
-            <div className="text-red-600 text-4xl font-bold">132</div>
+            <div className="text-primary-blue text-4xl font-bold">132</div>
             <p className="text-gray-600">Rental Outlets</p>
           </div>
           <div className="text-center">
-            <div className="text-red-600 text-4xl font-bold">34</div>
+            <div className="text-primary-blue text-4xl font-bold">34</div>
             <p className="text-gray-600">Repair Points</p>
           </div>
         </div>
-        <button className="mt-6 bg-red-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-red-700">
+        <button className="mt-6 bg-primary-blue text-primary-blue text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-blue-100">
           See All Cars
         </button>
       </div>
